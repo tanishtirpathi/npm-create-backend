@@ -1,0 +1,26 @@
+{
+  "name": "tanishbackend",
+  "version": "1.0.2",
+  "description": "A Node.js backend boilerplate with APIs and DB setup.",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "dist",
+    "templates",
+    "index.js"
+  ],
+  "bin": {
+    "tanish": "index.js"
+  },
+  "scripts": {
+    "tanish": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "boilerplate",
+    "starter"
+  ],
+  "license": "MIT",
+  "author": "Tanish Tirpathi <tanishtirpathi0@gmail.com>"
+}
